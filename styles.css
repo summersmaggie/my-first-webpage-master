@@ -1,0 +1,28 @@
+.title {
+  font-size: 20px;
+  text-align: center;
+  border: 1px solid black;
+  border-width: 30%;
+  font-family: 'Roboto Slab', serif;
+}
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: #edd7e8;
+}
+
+ul img {
+  width: 50%;
+  border-radius: 50%;
+  align-items: center;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+.sidebar {
+  float:left;
+  background color: #e0b3d6;
+}
